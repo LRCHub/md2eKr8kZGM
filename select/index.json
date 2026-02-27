@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君への滑走路",
+  "base_artist": "miolly",
+  "createdAt": "2026-02-27T12:39:48.198802Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君への滑走路",
+      "artist": "miolly",
+      "has_synced": false,
+      "path": "select/pl_01_君への滑走路_miolly.txt"
+    }
+  ]
+}
